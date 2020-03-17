@@ -1,0 +1,21 @@
+Import log, fruehstueck
+-Details----------------------------------------------------
+Name   : GDI Mission 8b, Bratislava
+Mission: scg08eb.ini
+Source : CNC Gold
+Tool   : OpenRA.Utility.exe, bleed 09.09.2019
+Reference: https://cnc.fandom.com/wiki/Protect_Mobius_In_Bratislava
+-Result-----------------------------------------------------
+Ignoring unknown MaxBuilding=150 for player BadGuy
+Ignoring unknown MaxUnit=150 for player BadGuy
+Ignoring unknown Edge=East for player BadGuy
+Ignoring unknown Credits=50 for player BadGuy
+Ignoring unknown MaxBuilding=150 for player GoodGuy
+Ignoring unknown MaxUnit=150 for player GoodGuy
+Ignoring unknown Edge=South for player GoodGuy
+Ignoring unknown Credits=50 for player GoodGuy
+Ignoring unknown MaxBuilding=150 for player Neutral
+Ignoring unknown MaxUnit=150 for player Neutral
+Ignoring unknown Edge=North for player Neutral
+Ignoring unknown Credits=0 for player Neutral
+scg08eb.oramap saved.
